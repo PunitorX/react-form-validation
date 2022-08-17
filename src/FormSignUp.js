@@ -62,7 +62,7 @@ function FormSignUp({submitForm}) {
                         id='password2'
                         type="password" 
                         name='password2' className="form-input" 
-                        placeholder='Enter your password2' 
+                        placeholder='Enter your password' 
                         value={values.password2}
                         onChange={handleChange}
                     />
